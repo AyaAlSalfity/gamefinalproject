@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GAME</string>
+    <string name="enter_your_username">enter your username</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="start_play">start play</string>
+    <string name="settings">settings</string>
+    <string name="exit">exit</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_birthdate">enter your birthdate</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+    <string name="save">save</string>
+    <string name="level_1">LEVEL 1</string>
+    <string name="score_level">Score Level:</string>
+    <string name="scorepass">ScorePass:</string>
+    <string name="go_to_level">go to level</string>
+    <string name="level_2">LEVEL 2</string>
+    <string name="update">update</string>
+    <string name="skip">skip</string>
+    <string name="the_qustion">The Qustion</string>
+    <string name="true_answer">True Answer</string>
+    <string name="cancel">cancle</string>
+    <string name="false_answer">false Answer</string>
+    <string-array name="spinner_country">
+
+        <item>country</item>
+        <item>palestinian</item>
+        <item>egypt</item>
+        <item>Jordan</item>
+        <item>Spain</item>
+        <item>Amman</item>
+
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="profile">profile</string>
+    <string name="the_level">THE LEVEL</string>
+    <string name="done">done</string>
+    <string name="the_number_of_true_answer" >the number of true answer</string>
+    <string name="the_number_of_false_answer">the_number_of_false_answer</string>
+    <string name="the_number_of_question_is_end">the_number_of_question_is_end</string>
+
+</resources>
